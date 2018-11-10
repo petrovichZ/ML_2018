@@ -3,6 +3,8 @@
 Created on Mon Oct 15 21:27:36 2018
 
 @author: Alexandra
+
+parzen window
 """
 
 import pandas as pd
